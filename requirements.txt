@@ -1,0 +1,7 @@
+python-dotenv
+openai
+pandas
+pandas_ta
+schedule
+
+#이거 설치할떄 pip install -r requirements.txt 하면됨 
